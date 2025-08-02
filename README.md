@@ -25,6 +25,12 @@ Crime is ultimately a behavior. This project connects data trends to neuroscienc
 
 ---
 
+### 📂 Data Source  
+Data from **[The Marshall Project – Crime Rates Dataset](https://www.kaggle.com/datasets/marshallproject/crime-rates)**  
+(Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) – for non-commercial use, with attribution).  
+
+---
+
 ### 🚀 Future Scope  
 - Build an interactive dashboard  
 - Explore wrongful conviction psychology  
@@ -32,4 +38,3 @@ Crime is ultimately a behavior. This project connects data trends to neuroscienc
 
 ---
 💡 *This project demonstrates the ability to work with real datasets, extract insights, and combine neuroscience with data science.*
-
